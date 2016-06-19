@@ -1,1 +1,3 @@
-#!/bin/bash
+#!/bin/bash -v
+
+echo "daily scripts"
