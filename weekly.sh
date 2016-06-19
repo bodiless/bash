@@ -1,3 +1,3 @@
 #!/usr/bin/env
 
-echo "weekly!"
+echo "some weekly stuff"
